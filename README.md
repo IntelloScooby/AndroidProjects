@@ -1,8 +1,8 @@
 # AndroidProjects
 
-#### TheMovieApp:
+### TheMovieApp:
 
-About the project:
+#### About the project:
 * This project uses 'themoviedb.org' API to fetch 
   - Popular movies
   - Top rated movies
@@ -16,7 +16,7 @@ About the project:
   - User rating
   - Release date
 
-Steps to run the project:
+#### Steps to run the project:
 * Download the repo and open the projectin Android Studio
 * To run this project you would need to create an account on 'themoviedb.org' and request your API key
 * Once you receive the API key, open the below file:
